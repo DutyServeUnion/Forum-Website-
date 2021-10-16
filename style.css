@@ -7,12 +7,12 @@
 html{
     font-size: 14px;
     font-family: 'Tirtillium Web', sans-serif
-    background-color rgb(255,255,0)
-    color: #FEFEFE
+    background-color rgb(255,255,0);
+    color: #FEFEFE;
 }
 
 a{
-    color:aquamarine
+    color: #FF0042;
     font-weight: bolder;
     font-decoration: none;
 }
@@ -23,3 +23,8 @@ h1{
 }
 
 /* home.html */
+
+.container{
+    margin: 20px;
+    padding:20px;
+}
